@@ -1,0 +1,19 @@
+LICENCIA DE USO DE CONTENIDO
+
+Las imágenes contenidas en este repositorio son propiedad de Jasman y están protegidas por la ley de derechos de autor.
+
+Este contenido se distribuye bajo la licencia:
+Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Internacional (CC BY-NC-ND 4.0)
+
+Resumen de los términos de la licencia:
+
+1. **Atribución (BY)**: Debe otorgarse el crédito correspondiente a Jasman.
+2. **No Comercial (NC)**: No se permite el uso del material con fines comerciales.
+3. **Sin Obras Derivadas (ND)**: No se permite modificar, transformar ni crear obras derivadas a partir del material.
+
+El texto completo de la licencia puede consultarse en:  
+https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es
+
+---
+
+© 2025 Jasman. Todos los derechos reservados.
